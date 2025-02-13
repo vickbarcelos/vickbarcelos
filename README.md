@@ -1,16 +1,18 @@
-## Hi there 👋
+![Banner](https://github.com/user-attachments/assets/fc46bbc1-b058-4f7e-8490-c5939af0caf6)
 
-<!--
-**vickbarcelos/vickbarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🖤 Hello there! 👋 I'm Victoria S. Barcelos or just Vic B., a  Data Engineer 🖤
+
+---
+
+- 🌴 Brazil
+- 💻 Falling in love with technology
+- 🌱 Working on my skills
+
+
+
+
+🖤 Social Medias 🖤
+[![Linkedin: Vic](https://img.shields.io/badge/-V-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/victoria-barcelos/)](www.linkedin.com/in/victoria-barcelos)
